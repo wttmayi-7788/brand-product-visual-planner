@@ -1,0 +1,4 @@
+interface:
+  display_name: "品牌产品视觉策划"
+  short_description: "从多模态参考资料生成可执行的品牌、产品与视觉策划方案"
+  default_prompt: "使用 $brand-product-visual-planner 分析我提供的参考资料，并输出可执行的品牌产品视觉策划方案。"
